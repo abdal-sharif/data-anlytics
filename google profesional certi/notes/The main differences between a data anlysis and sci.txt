@@ -1,0 +1,13 @@
+The main differences between a data analyst and data scientist are123:
+Data analysts work mostly with structured data by collecting, analyzing and mining techniques to provide valuable insight to businesses. In contrast, data scientists collect and analyze both structured and unstructured data and focus on building models to predict trends and make forecasts.
+While a data analyst works with data visualization and statistical analysis to understand data and identify trends, data scientists work to create frameworks and algorithms to collect data the business can use.
+A data scientist works to capture data while a data analyst tries to gain insights from that data.
+
+
+Data analysts and data scientists are two distinct roles in the field of data science. While both roles involve working with data, they differ in their approach and focus.
+
+Data analysts work primarily with structured data, using techniques such as data mining, statistical analysis, and data visualization to extract insights from the data. They use these insights to help businesses make informed decisions based on past trends and patterns. Data analysts are responsible for collecting, cleaning, and organizing data to ensure its accuracy and completeness.
+
+On the other hand, data scientists work with both structured and unstructured data to build predictive models that can help businesses forecast future trends. They use advanced techniques such as machine learning and artificial intelligence to analyze large datasets and identify patterns that can be used to make predictions. Data scientists are responsible for designing algorithms that can automate the process of collecting and analyzing data.
+
+In summary, while both roles involve working with data, data analysts focus on analyzing past trends to provide insights for decision-making, while data scientists focus on building predictive models to forecast future trends.

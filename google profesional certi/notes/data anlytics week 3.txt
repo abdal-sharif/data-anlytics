@@ -1,0 +1,11 @@
+data anlytics week 3
+
+visualization is essential to getting others to understand what your data is telling you. With the right visuals, facts and figures become so much easier to see and complex concepts become easier to understand.
+
+ formula is a set of instructions that performs a specific calculation using the data in a spreadsheet. Formulas can do basic things like add, subtract, multiply and divide, but they don't stop there. 
+
+he next data analysis tool is called query language. A query language is a computer programming language that allows you to retrieve and manipulate data from a database. 
+
+A database is a collection of data stored in a computer system.
+
+ data visualization is the graphical representation of information. Some examples include graphs, maps, and tables.

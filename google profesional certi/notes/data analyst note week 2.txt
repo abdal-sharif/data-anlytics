@@ -1,0 +1,29 @@
+data analyst note week 2
+
+the data analysis process phases are ask, prepare, process, analyze, share, and act. You might remember me saying earlier that this entire program is modeled after these steps.
+
+how do data analysts bring data to life? Well, it starts with the right data analysis tool. These include spreadsheets, databases, query languages, and visualization software.
+
+The life cycle of data is plan, capture, manage, analyze, archive and destroy. Let's start with the first phase, planning. 
+
+A database is a collection of data stored in a computer system.
+
+
+
+Variations of the data life cycle
+
+You learned that there are six stages to the data life cycle. Here is a recap:
+
+Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
+
+Capture: Collect or bring in data from a variety of different sources.
+
+Manage: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so.
+
+Analyze: Use the data to solve problems, make decisions, and support business goals.
+
+Archive: Keep relevant data stored for long-term and future reference.
+
+Destroy: Remove data from storage and delete any shared copies of the data.
+
+
